@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Songify</string>
+    <string name="notification_channel_name">Current Channel Name</string>
+    <string name="notification_channel_description">Current Channel Description</string>
+</resources>

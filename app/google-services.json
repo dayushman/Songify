@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "477969280844",
+    "firebase_url": "https://musicplayer-3b2d5.firebaseio.com",
+    "project_id": "musicplayer-3b2d5",
+    "storage_bucket": "musicplayer-3b2d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477969280844:android:f33f062455365034a9a9e9",
+        "android_client_info": {
+          "package_name": "com.example.musicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477969280844-gv65g9tt9v4rqp9drkktdr34q87bcu8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzYZpH8sY8Qn8DC4KV2Dp6HgHxHKVEcUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477969280844-gv65g9tt9v4rqp9drkktdr34q87bcu8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477969280844:android:9a4caba3449491e7a9a9e9",
+        "android_client_info": {
+          "package_name": "com.example.songify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477969280844-gv65g9tt9v4rqp9drkktdr34q87bcu8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzYZpH8sY8Qn8DC4KV2Dp6HgHxHKVEcUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477969280844-gv65g9tt9v4rqp9drkktdr34q87bcu8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477969280844:android:3db2b04623eea04aa9a9e9",
+        "android_client_info": {
+          "package_name": "com.plcoding.spotifycloneyt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477969280844-gv65g9tt9v4rqp9drkktdr34q87bcu8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzYZpH8sY8Qn8DC4KV2Dp6HgHxHKVEcUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477969280844-gv65g9tt9v4rqp9drkktdr34q87bcu8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
