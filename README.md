@@ -18,6 +18,7 @@ The various Libraries Used in this application are:
 * Exoplayer2
 * Firebase
 * Dagger-Hilt
+* Viewpagr 2
 * Coroutines
 * Timber
 * Glide
