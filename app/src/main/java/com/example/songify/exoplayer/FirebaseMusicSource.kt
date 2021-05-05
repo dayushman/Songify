@@ -28,7 +28,7 @@ class FirebaseMusicSource @Inject constructor(
 
 
         songs = allSongs.map { song->
-            MediaMetadataCompat.Builder()
+            Builder()
                 .putString(METADATA_KEY_ARTIST, song.subtitle)
                 .putString(METADATA_KEY_MEDIA_ID, song.id)
                 .putString(METADATA_KEY_TITLE, song.title)

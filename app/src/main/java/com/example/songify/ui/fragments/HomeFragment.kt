@@ -1,9 +1,7 @@
 package com.example.songify.ui.fragments
 
 import android.os.Bundle
-import android.view.View
 import android.view.View.INVISIBLE
-import android.view.View.VISIBLE
 import androidx.core.view.isVisible
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
@@ -22,7 +20,7 @@ import javax.inject.Inject
 @AndroidEntryPoint
 class HomeFragment : Fragment(R.layout.fragment_home) {
 
-    lateinit var mainViewModel: MainViewModel
+    private lateinit var mainViewModel: MainViewModel
 
     @Inject
     lateinit var songAdaptor: SongAdaptor
