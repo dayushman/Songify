@@ -11,7 +11,7 @@ data class Resource<out T>(
 
         fun <T> error(message: String?,data:T?) = Resource<T>(Status.ERROR,data,message)
 
-        fun <T> loading(data:T?) = Resource<T>(Status.ERROR,data,null)
+        fun <T> loading(data:T?) = Resource<T>(Status.LOADING,data,null)
     }
 
 }
